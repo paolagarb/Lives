@@ -1,0 +1,65 @@
+body {
+    width: 90%;
+    max-width: 850px;
+    margin: auto;
+    font-family: 'Roboto Condensed', sans-serif;
+    line-height: 1.5;
+    /*background-color: #9b9999;*/
+    background: url('ytt.png') center;
+    color: #fff;
+}
+
+main {
+    background: rgba(0, 0, 0, 0.95);
+    border-radius: 25px;
+    padding-top: 30px;
+    padding: 5px 40px;
+    margin-top: 20px;
+}
+
+.youtube {
+    text-align: center;
+    margin: 0;
+}
+
+.youtube img {
+    border-radius: 30px;
+    padding-top: 30px;
+    margin: 0;
+    max-width: 100%;
+}
+
+h1, h2, h3, p {
+    text-align: center;
+    margin: 0;
+}
+
+h1 {
+    font-size: 40px;
+    padding-top: 20px;
+}
+
+.agenda {
+    margin: 30px 0;
+    text-align: center;
+    width: 100%;
+}
+
+.agenda table {
+    background: #220000;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 0 auto;
+    text-align: left;
+}
+
+.agenda table th{
+    margin-top: 10px;
+    padding: 5px 10px;
+}
+
+
+
+/*.agenda thead {
+    color: #000;
+}*/
